@@ -8,13 +8,14 @@
     width: 100%;
     min-height: 100vh;
     padding-bottom: 50px;
-    background-color: #ff6bab;
+    background-color: #c8a3d4;
     display: flex;
     flex-wrap: wrap;
 }
 
 #addBtn {
     position: fixed;
+    font-size: 25px;
     right: 10px;
     top: 10px;
     background-color: #2d3436;
@@ -63,7 +64,7 @@
 
 #text
 {
-    background-color: rgb(232, 168, 218);
+    background-color: rgb(125, 119, 125);
     padding: 30px 50px;
-    color: rgb(228, 17, 162);
+    color: rgb(27, 17, 24);
 }
